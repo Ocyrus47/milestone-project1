@@ -3,3 +3,40 @@
     padding: 0;
     border: 0;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #646464;
+}
+
+.logo {
+    background-color: #646464;
+    color: #fff;
+    padding: 15px 20px;
+    display: inline-block;
+    width: 100%;
+}
+
+.logo a {
+    color: #fff;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin-right: 15px;
+    padding-right: 10px;
+}
+
+.nav-position {
+    text-align: right;
+    text-transform: uppercase;
+    color: #fff;
+    padding-right: 15px;
+}
+
+.hero-image {
+    background: url("asstes/images/.hero-image.png");
+}
+
+
+#menu {
+    list-style-type: none;
+}
